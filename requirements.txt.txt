@@ -1,7 +1,6 @@
 streamlit
 opencv-python
-mediapipe
-fpdf
-matplotlib
-pillow
 pandas
+matplotlib
+fpdf
+Pillow
